@@ -1,0 +1,2 @@
+git remote add origin https://github.com/dscbenin/members.git
+git push -u origin master
